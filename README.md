@@ -50,7 +50,3 @@ Aqui estão algumas estatísticas sobre minha atividade no GitHub:
 
 > "A tecnologia pode ser a resposta, mas a paixão pela inovação é o que me move." – Carlos Henrique
 - 💡 Sempre buscando novos desafios em **desenvolvimento de software** e **inteligência artificial**.
-
----
-
-> "A tecnologia pode ser a resposta, mas a paixão pela inovação é o que me move." – Carlos Henrique
