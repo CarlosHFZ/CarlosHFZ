@@ -60,6 +60,7 @@ Aqui estão algumas estatísticas sobre minha atividade no GitHub:
 ### 🚀 Algumas das minhas Conquistas:
 - 🎓 **Bacharelado em Sistemas de Informação**.
 - 💼 Trabalhando como freelancer em um projeto com equipes internacionais.
+- 🏆 Segundo lugar na Hackathon do projeto jovem programador em 2022 link: https://www.jovemprogramador.com.br/n.php?ID=58&T=jovem-programador-2022-maratona-de-encerramento-premiou-tr-s-projetos
 - 💡 Sempre buscando novos desafios em **desenvolvimento de software** e **inteligência artificial**.
 
 ---
