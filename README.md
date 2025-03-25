@@ -1,6 +1,13 @@
 # 👋 Olá, sou Carlos Henrique!
 
-Sou desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em várias tecnologias e estou sempre buscando aprender e melhorar minhas habilidades. Aqui estão algumas informações sobre mim e minhas habilidades:
+Sou desenvolvedor apaixonado por **tecnologia** e **programação**. Em 2022, participei do **Jovem Programador**, um curso intensivo de 6 meses focado em **back-end** e **front-end**.
+
+Atualmente, curso **Bacharelado em Sistemas de Informação** (UNIASSELVI) e me especializo em **desenvolvimento back-end com Python**. Além disso, trabalho como freelancer, aprimorando minhas habilidades em:
+
+- **Desenvolvimento de APIs eficientes**
+- **Otimização de bancos de dados**
+- **Arquitetura baseada em microsserviços e orientação a objetos**
+- **Desenvolvimento orientado a testes (TDD)**
 
 ---
 
@@ -11,8 +18,8 @@ Sou desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho
 - **MongoDB**
 - **React**
 - **NestJS**
-- **API's Google**
-- **Inteligencia Artificial**
+- **APIs do Google**
+- **Inteligência Artificial**
 
 ---
 
@@ -22,7 +29,16 @@ Sou desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho
 - **Django**
 - **C**
 - **Java**
-- **Outras API's**
+- **Outras APIs**
+
+---
+
+## 💼 Experiência como Freelancer
+
+- **Automação e Integrações**: Implementação de automações com **APIs do Google** e **scripts Python**.
+- **Desenvolvimento Back-End**: Construção de sistemas modulares e escaláveis com **Python** e **NestJS**.
+- **Testes e Qualidade**: Aplicação de **TDD** para garantir a confiabilidade dos sistemas.
+- **Integração de Sistemas**: Desenvolvimento de **RESTful APIs** e integração de aplicações.
 
 ---
 
@@ -42,6 +58,12 @@ Aqui estão algumas estatísticas sobre minha atividade no GitHub:
 ---
 
 ### 🚀 Algumas das minhas Conquistas:
-- 🎓 Bacharelado em Sistemas de Informação.
+- 🎓 **Bacharelado em Sistemas de Informação**.
 - 💼 Trabalhando como freelancer em um projeto com equipes internacionais.
 - 💡 Sempre buscando novos desafios em **desenvolvimento de software** e **inteligência artificial**.
+
+---
+
+### 🎯 O que estou buscando
+
+Busco **oportunidades de estágio ou júnior** em **desenvolvimento Python** para aplicar minhas habilidades em **back-end**, **integração de APIs** e **otimização de sistemas**, enquanto continuo a evolução da minha carreira.
