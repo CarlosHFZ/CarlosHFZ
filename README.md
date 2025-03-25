@@ -42,7 +42,7 @@ Atualmente, curso **Bacharelado em Sistemas de Informação** (UNIASSELVI) e me 
 
 ---
 
-## 🏆 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 Aqui estão algumas estatísticas sobre minha atividade no GitHub:
 
