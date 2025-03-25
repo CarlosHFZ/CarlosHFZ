@@ -30,7 +30,7 @@ Sou desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho
 
 Aqui está um gráfico que mostra a frequência dos meus commits ao longo do tempo, incluindo os anos:
 
-![Carlos' GitHub Commit Activity](https://github-readme-stats.vercel.app/api/wakatime?username=carloshenrique&layout=compact&langs_count=10&hide_title=true)
+![Carlos' GitHub Commit Activity](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosHFZ&layout=compact&langs_count=10&hide_title=true)
 
 ---
 
