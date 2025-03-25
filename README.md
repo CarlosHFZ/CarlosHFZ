@@ -11,6 +11,8 @@ Sou desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho
 - **MongoDB**
 - **React**
 - **NestJS**
+- **API's Google**
+- **Inteligencia Artificial**
 
 ---
 
@@ -20,14 +22,15 @@ Sou desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho
 - **Django**
 - **C**
 - **Java**
+- **Outras API's**
 
 ---
 
 ## 📊 Gráfico de Atividade de Commits
 
-Aqui está um gráfico que mostra a frequência dos meus commits ao longo do tempo:
+Aqui está um gráfico que mostra a frequência dos meus commits ao longo do tempo, incluindo os anos:
 
-![Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenrique&layout=compact&langs_count=10)
+![Carlos' GitHub Commit Activity](https://github-readme-stats.vercel.app/api/wakatime?username=carloshenrique&layout=compact&langs_count=10&hide_title=true)
 
 ---
 
@@ -49,6 +52,11 @@ Aqui estão algumas estatísticas sobre minha atividade no GitHub:
 ### 🚀 Algumas das minhas Conquistas:
 - 🎓 Bacharelado em Sistemas de Informação.
 - 💼 Trabalhando como freelancer em um projeto com equipes internacionais.
+- 💡 Sempre buscando novos desafios em **desenvolvimento de software** e **inteligência artificial**.
+
+---
+
+> "A tecnologia pode ser a resposta, mas a paixão pela inovação é o que me move." – Carlos Henrique
 - 💡 Sempre buscando novos desafios em **desenvolvimento de software** e **inteligência artificial**.
 
 ---
