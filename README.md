@@ -35,10 +35,12 @@ Atualmente, curso **Bacharelado em Sistemas de Informação** (UNIASSELVI) e me 
 
 ## 💼 Experiência como Freelancer
 
-- **Automação e Integrações**: Implementação de automações com **APIs do Google** e **scripts Python**.
-- **Desenvolvimento Back-End**: Construção de sistemas modulares e escaláveis com **Python** e **NestJS**.
-- **Testes e Qualidade**: Aplicação de **TDD** para garantir a confiabilidade dos sistemas.
-- **Integração de Sistemas**: Desenvolvimento de **RESTful APIs** e integração de aplicações.
+- **Automação e Integrações**: Implementação de automações com **APIs do Google** e **scripts Python**, otimizando processos e aumentando a eficiência das operações.
+- **Desenvolvimento Back-End**: Construção de sistemas modulares e escaláveis com **React** e **NestJS**, utilizando boas práticas de desenvolvimento.
+- **Banco de Dados MySQL**: Criação de **tabelas** e **otimizações** em bancos de dados **MySQL**, garantindo a eficiência e a escalabilidade de consultas e transações.
+- **MongoDB (NoSQL)**: Forte experiência no uso de **MongoDB** para o gerenciamento e manipulação de grandes volumes de dados não estruturados e semi-estruturados.
+- **Desenvolvimento Front-End com React e TypeScript**: Estilização de **páginas web** e criação de interfaces dinâmicas e interativas, utilizando **React** com **TypeScript** para garantir a tipagem estática e a escalabilidade do código.
+
 
 ---
 
