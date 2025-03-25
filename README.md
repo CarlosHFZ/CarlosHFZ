@@ -36,8 +36,8 @@ Aqui estão algumas estatísticas sobre minha atividade no GitHub:
 
 ## 💬 Entre em contato comigo
 
-- **LinkedIn**: [Carlos Henrique]([https://www.linkedin.com/in/carloshenrique](https://www.linkedin.com/in/carloshfz/))
-- **E-mail**: [carlos@example.com](mailto:kalizehnder@outlook.com)
+- **LinkedIn**: [Carlos Henrique Farias Zehnder](https://www.linkedin.com/in/carloshfz/)
+- **E-mail**: [kalizehnder@outlook.com](mailto:kalizehnder@outlook.com)
 
 ---
 
