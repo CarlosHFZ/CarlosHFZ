@@ -70,4 +70,4 @@ Aqui estão algumas estatísticas sobre minha atividade no GitHub:
 
 ### 🎯 O que estou buscando
 
-Busco **oportunidades de estágio ou júnior** em **desenvolvimento Python** para aplicar minhas habilidades em **back-end**, **integração de APIs** e **otimização de sistemas**, enquanto continuo a evolução da minha carreira.
+Busco **oportunidades de estágio ou júnior** em **desenvolvimento Python** para aplicar minhas habilidades em **back-end**, **integração de APIs**, **otimização de sistemas** e React/JDango para desenvolvimento web, enquanto continuo a evolução da minha carreira.
