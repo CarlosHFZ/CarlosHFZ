@@ -30,6 +30,7 @@ Atualmente, curso **Bacharelado em Sistemas de Informação** (UNIASSELVI) e me 
 - **C**
 - **Java**
 - **Outras APIs**
+- **Pyside6**
 
 ---
 
