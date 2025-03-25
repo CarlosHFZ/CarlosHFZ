@@ -26,20 +26,11 @@ Sou desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Tenho
 
 ---
 
-## 📊 Gráfico de Atividade de Commits
-
-Aqui está um gráfico que mostra a frequência dos meus commits ao longo do tempo, incluindo os anos:
-
-![Carlos' GitHub Commit Activity](https://github-readme-stats.vercel.app/api?username=carloshenrique&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=tokyonight)
-
-
----
-
 ## 🏆 Estatísticas do GitHub
 
 Aqui estão algumas estatísticas sobre minha atividade no GitHub:
 
-![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloshenrique&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true)
+![Carlos' GitHub Commit Activity](https://github-readme-stats.vercel.app/api?username=carloshenrique&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=tokyonight)
 
 ---
 
