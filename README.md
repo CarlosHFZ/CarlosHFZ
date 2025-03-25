@@ -4,10 +4,6 @@ Sou desenvolvedor apaixonado por **tecnologia** e **programação**. Em 2022, pa
 
 Atualmente, curso **Bacharelado em Sistemas de Informação** (UNIASSELVI) e me especializo em **desenvolvimento back-end com Python**. Além disso, trabalho como freelancer, aprimorando minhas habilidades em:
 
-- **Desenvolvimento de APIs eficientes**
-- **Otimização de bancos de dados**
-- **Arquitetura baseada em microsserviços e orientação a objetos**
-- **Desenvolvimento orientado a testes (TDD)**
 
 ---
 
