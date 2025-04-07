@@ -14,7 +14,7 @@ Atualmente, curso **Bacharelado em Sistemas de Informação** (UNIASSELVI) e me 
 - **MongoDB**
 - **React**
 - **NestJS**
-- **APIs do Google**
+- **Google APIs**
 - **Inteligência Artificial**
 
 ---
