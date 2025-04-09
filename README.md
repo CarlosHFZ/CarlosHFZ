@@ -2,7 +2,7 @@
 
 Sou desenvolvedor apaixonado por **tecnologia** e **programação**. Em 2022, participei do **Jovem Programador**, um curso intensivo de 6 meses focado em **back-end** e **front-end**.
 
-Atualmente, curso **Bacharelado em Sistemas de Informação** (UNIASSELVI) e me especializo em **desenvolvimento back-end com Python**. Além disso, trabalho como freelancer, aprimorando minhas habilidades em:
+Atualmente, curso **Bacharelado em Sistemas de Informação** (UNIASSELVI) e me especializo em **desenvolvimento back-end com Python** e **React/Nestjs para o front-end**. Além disso, trabalho como freelancer, aprimorando minhas habilidades em:
 
 
 ---
