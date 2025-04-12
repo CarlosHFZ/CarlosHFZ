@@ -1,13 +1,12 @@
-# 👋 Olá, sou Carlos Henrique!
+# 👋 Hi, I'm Carlos Henrique!
 
-Sou desenvolvedor apaixonado por **tecnologia** e **programação**. Em 2022, participei do **Jovem Programador**, um curso intensivo de 6 meses focado em **back-end** e **front-end**.
+I'm a developer passionate about **technology** and **programming**. In 2022, I participated in **Jovem Programador**, an intensive 6-month course focused on **back-end** and **front-end** development.
 
-Atualmente, curso **Bacharelado em Sistemas de Informação** (UNIASSELVI) e me especializo em **desenvolvimento back-end com Python** e **React/Nestjs para o front-end**. Além disso, trabalho como freelancer, aprimorando minhas habilidades em:
-
+I’m currently pursuing a **Bachelor’s Degree in Information Systems** (UNIASSELVI) and specializing in **back-end development with Python** and **React/NestJS for the front-end**. In addition, I work as a freelancer, continuously improving my skills in:
 
 ---
 
-## 💻 Melhor Experiência
+## 💻 Strongest Skills
 
 - **Python**  
 - **TypeScript**
@@ -15,55 +14,56 @@ Atualmente, curso **Bacharelado em Sistemas de Informação** (UNIASSELVI) e me 
 - **React**
 - **NestJS**
 - **Google APIs**
-- **Inteligência Artificial**
+- **Artificial Intelligence**
 
 ---
 
-## 🔧 Outras Experiências
+## 🔧 Other Experiences
 
+- **Docker**
 - **MySQL**
 - **Django**
 - **C**
 - **Java**
-- **Outras APIs**
+- **Various APIs**
 - **Pyside6**
 
 ---
 
-## 💼 Experiência como Freelancer
+## 💼 Freelance Experience
 
-- **Automação e Integrações**: Implementação de automações com **APIs do Google** e **scripts Python**, otimizando processos e aumentando a eficiência das operações.
-- **Desenvolvimento Back-End**: Construção de sistemas modulares e escaláveis com **React** e **NestJS**, utilizando boas práticas de desenvolvimento.
-- **Banco de Dados MySQL**: Criação de **tabelas** e **otimizações** em bancos de dados **MySQL**, garantindo a eficiência e a escalabilidade de consultas e transações.
-- **MongoDB (NoSQL)**: Forte experiência no uso de **MongoDB** para o gerenciamento e manipulação de grandes volumes de dados não estruturados e semi-estruturados.
-- **Desenvolvimento Front-End com React e TypeScript**: Estilização de **páginas web** e criação de interfaces dinâmicas e interativas, utilizando **React** com **TypeScript** para garantir a tipagem estática e a escalabilidade do código.
-
+- **Automation and Integrations**: Implementing automation using **Google APIs** and **Python scripts** to optimize processes and enhance operational efficiency.
+- **Web Back-End Development**: Building modular and scalable systems with **React** and **NestJS**, applying best development practices.
+- **MySQL Database**: Designing **tables** and performing **optimizations** in **MySQL** databases to ensure efficient and scalable queries and transactions.
+- **MongoDB (NoSQL)**: Extensive experience using **MongoDB** for managing and manipulating large volumes of unstructured and semi-structured data.
+- **Front-End Development**: Styling **web pages** and creating dynamic and interactive interfaces using **React** and **TypeScript**, ensuring static typing and code scalability.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-Aqui estão algumas estatísticas sobre minha atividade no GitHub:
+Here are some stats about my GitHub activity:
 
 ![Carlos' GitHub Commit Activity](https://github-readme-stats.vercel.app/api?username=carloshenrique&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=tokyonight)
 
 ---
 
-## 💬 Entre em contato comigo
+## 💬 Contact Me
 
 - **LinkedIn**: [Carlos Henrique Farias Zehnder](https://www.linkedin.com/in/carloshfz/)
-- **E-mail**: [kalizehnder@outlook.com](mailto:kalizehnder@outlook.com)
+- **Email**: [kalizehnder@outlook.com](mailto:kalizehnder@outlook.com)
 
 ---
 
-### 🚀 Algumas das minhas Conquistas:
-- 🎓 **Bacharelado em Sistemas de Informação**.
-- 💼 Trabalhando como freelancer em um projeto com equipes internacionais.
-- 🏆 Segundo lugar na Hackathon do projeto jovem programador em 2022 link: https://www.jovemprogramador.com.br/n.php?ID=58&T=jovem-programador-2022-maratona-de-encerramento-premiou-tr-s-projetos
-- 💡 Sempre buscando novos desafios em **desenvolvimento de software** e **inteligência artificial**.
+### 🚀 Some of My Achievements:
+
+- 🎓 **Bachelor’s Degree in Information Systems**.
+- 💼 Working as a freelancer on a project with international teams.
+- 🏆 Second place at the Hackathon of the Jovem Programador project in 2022. [Link](https://www.jovemprogramador.com.br/n.php?ID=58&T=jovem-programador-2022-maratona-de-encerramento-premiou-tr-s-projetos)
+- 💡 Always seeking new challenges in **software development** and **artificial intelligence**.
 
 ---
 
-### 🎯 O que estou buscando
+### 🎯 What I’m Looking For
 
-Busco **oportunidades de estágio ou júnior** em **desenvolvimento Python** para aplicar minhas habilidades em **back-end**, **integração de APIs**, **otimização de sistemas** e React/JDango para desenvolvimento web, enquanto continuo a evolução da minha carreira.
+I’m seeking **internship or junior-level opportunities** in **Python development** where I can apply my skills in **back-end**, **API integration**, **system optimization**, and React/Django for web development — while continuing to grow my career.
