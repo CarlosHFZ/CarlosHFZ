@@ -57,7 +57,6 @@ Here are some stats about my GitHub activity:
 
 ### 🚀 Some of My Achievements:
 
-- 🎓 **Bachelor’s Degree in Information Systems**.
 - 💼 Working as a freelancer on a project with international teams.
 - 🏆 Second place at the Hackathon of the Jovem Programador project in 2022. [Link](https://www.jovemprogramador.com.br/n.php?ID=58&T=jovem-programador-2022-maratona-de-encerramento-premiou-tr-s-projetos)
 - 💡 Always seeking new challenges in **software development** and **artificial intelligence**.
